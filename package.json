@@ -1,0 +1,9 @@
+{
+  "name": "klaviatura-sarguzashti",
+  "version": "1.0.0",
+  "private": true,
+  "description": "O‘zbek tilidagi klaviatura o‘rganish sayti",
+  "dependencies": {
+    "@netlify/blobs": "^8.2.0"
+  }
+}
